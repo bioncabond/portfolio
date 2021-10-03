@@ -1,6 +1,5 @@
 # Modify this portfolio
 
-Make it your own! 
 
 Netlify Deploy Link: https://bond-301.netlify.app 
 
