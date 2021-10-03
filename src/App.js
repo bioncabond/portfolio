@@ -81,7 +81,10 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <Header sharedData={this.state.sharedData.basic_info} />
+        <Header
+        sharedData={this.state.sharedData.basic_info} 
+        
+          />
         <Switch>
           <Route exact path="/">
             <Home
@@ -98,7 +101,7 @@ class App extends Component {
         </Switch>
         <Footer 
           sharedBasicInfo={this.state.sharedData.basic_info}
-          applyPickedLanguage={this.applyPickedLanguage} 
+          
         />  
       </Router>
     );

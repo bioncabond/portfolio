@@ -21,7 +21,7 @@ html {
 
 .title-styles {
 	font-family: 'Raleway', sans-serif;
-	font-size: 250%;
+	font-size: 950%;
 }
 
 .header-icon {
@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color:#234377;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -72,7 +72,7 @@ header .nav {
 	z-index: -500;
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color: #e7903e;
 	color: white;
 }
 
@@ -95,7 +95,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: whitesmoke;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: gray;
 	overflow: hidden;
 }
 
@@ -157,7 +157,7 @@ header h1 {
 
 .foto div:after {
 	color: #333;
-	font-size: 25px;
+	font-size: 700px;
 	content: attr(title);
 	position: relative;
 	top: 15px;
@@ -231,7 +231,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #3d3d3c7c;
 }
 
 .experience-icon {
@@ -256,8 +256,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
-	color: black;
+	background-color: #234377 !important;
+	color: whitesmoke;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -353,7 +353,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background-image: url("https://besthqwallpapers.com/img/original/102501/floral-metal-patterns-macro-golden-metal-pattern-metal-background-metallic-floral-pattern.jpg");
 	padding-bottom: 5%;
 }
 
@@ -389,7 +389,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #234377c4;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -402,13 +402,13 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: black;
 	text-align: center;
 }
 
 .skill-icon {
-	font-size: 180%;
-	color: white;
+	font-size: 250%;
+	color: rgb(12, 12, 12);
 	text-align: center;
 	position: relative;
 }
