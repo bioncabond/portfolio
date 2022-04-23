@@ -1,6 +1,13 @@
+# Vercel Deployment 
+
+# Assignment 
+- Deploy a Next.js app of your choosing via Vercel 
+
+# Deploy Link
+Vercel Deploy Link: https://portfolio-ten-eta-25.vercel.app/ 
+
+
 # Modify this portfolio
-
-
 Netlify Deploy Link: https://bond-301.netlify.app 
 
 Trello: https://trello.com/b/wDHX0kRc/301-lab-5-profile 
